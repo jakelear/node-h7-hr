@@ -16,3 +16,11 @@ A rudamentary example of using [Noble](https://github.com/sandeepmistry/noble) t
 This _should_ function with other bluetooth heart rate sensors that broadcast the 180d service.
 This does not include Fitbit Charge HR - to my knowledge the Charge HR does not broadcast the
 heart rate service over bluetooth.
+
+
+## Resources
+Some good resources for more on listening to bluetooth heart rate:
+
+[Introduction to Core Bluetooth: Building a Heart Rate Monitor](http://www.raywenderlich.com/52080/introduction-core-bluetooth-building-heart-rate-monitor)
+
+[Mac Developer Library: CoreBluetooth Heart Rate Monitor](https://developer.apple.com/library/mac/samplecode/HeartRateMonitor/Introduction/Intro.html)
